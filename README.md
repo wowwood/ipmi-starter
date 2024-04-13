@@ -28,6 +28,7 @@ javaws c:\Users\MyUser\Downloads\viewer.jnlp
 | Fujitsu RX300 S7 IDRAC       | FW 6.65    | 2013         | Yes                                        | Yes        | Yes        |
 | QCT D51PH-1ULH (AST2400)     | FW 3.16.00 | 2015         | Yes                                        | Not tested | No tested  |
 | Supermicro H8QG6             | FW 3.02    | 2014         | Yes                                        | Not tested | No tested  |
+| Intel S2600GZ                | FW 01.19   | 2012         | Yes                                        | Not tested | No tested  |
 
 # Known issues
 
